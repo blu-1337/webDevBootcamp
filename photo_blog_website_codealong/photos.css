@@ -1,0 +1,19 @@
+img{
+  width: 30%;
+  height: 300px;
+  margin: calc(10%/6);
+  object-fit: cover;
+  object-position: top;
+  /* position: botto */
+}
+
+nav{
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  margin-left: calc(10%/6);
+  padding: 20px 0;
+}
+
+/* 30 + 30 + 30 = 90, deci 10% left */
